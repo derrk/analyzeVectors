@@ -1,0 +1,2 @@
+D:\analyzeVectors\Debug\analyzeVectors.exe
+D:\analyzeVectors\Debug\analyzeVectors.pdb
